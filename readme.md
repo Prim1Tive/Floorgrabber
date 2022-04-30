@@ -16,7 +16,7 @@ This Porject was cearted so one could track the floor of an NFT in any given mom
 - Selenium - open cmd and type pip install selenium OR python3 -m pip install selenium
 - win10toast - open cmd and type pip install win10toast OR python3 -m pip install win10toast
 - ### Download the project And save it somewhere
-- gekodriver - This file is supplied in the Project git. please save c:\webdrivers\gekodriver.exe
+- gekodriver - This file is supplied in the Project git. please save it at c:\webdrivers\gekodriver.exe
 
 
 
