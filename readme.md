@@ -1,7 +1,7 @@
 This Porject was cearted so one could track a the floor of an NFT in any given moment.
 
-Requierments:
-
+# Requierments:
+~
 python3
 Selenium
 Firefox
