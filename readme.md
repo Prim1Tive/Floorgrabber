@@ -1,6 +1,6 @@
 # FloorGrabber
 
-This Porject was cearted so one could track a the floor of an NFT in any given moment.
+This Porject was cearted so one could track the floor of an NFT in any given moment by setting a trash-hold.
 
 ## Requierments:
 
