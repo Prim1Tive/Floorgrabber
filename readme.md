@@ -2,6 +2,11 @@
 
 This Porject was cearted so one could track the floor of an NFT in any given moment by setting a trash-hold.
 
+<p align="center">
+<img src="assets/demo.png"/>
+</p>
+
+
 ## Requierments:
 
 - python3 - install via Windows store
@@ -23,10 +28,7 @@ This Porject was cearted so one could track the floor of an NFT in any given mom
 
 ## Usage:
 
-1 Run .py file
-2 Give OpenSea URL
-3 Give floor for trash-holding
+- 1 Run .py file
+- 2 Give OpenSea URL
+- 3 Give floor for trash-holding
 
-<p align="center">
-<img src="assets/demo.png"/>
-</p>
