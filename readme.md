@@ -28,5 +28,5 @@ This Porject was cearted so one could track the floor of an NFT in any given mom
 3 Give floor for trash-holding
 
 <p align="center">
-<img src="assets/demo.jpeg"/>
+<img src="assets/demo.png"/>
 </p>
