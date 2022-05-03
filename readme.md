@@ -1,4 +1,4 @@
-# FloorGrabber
+# OpenSea Floor RealTime Alerts
 
 This Porject was cearted so one could track the floor of an NFT in any given moment by giving OpenSea NTF Profile URL
 
@@ -23,7 +23,6 @@ This Porject was cearted so one could track the floor of an NFT in any given mom
 - win10toast - open cmd and type pip install win10toast OR python3 -m pip install win10toast
 - ### Download the project And save it somewhere https://github.com/Prim1Tive/Floorgrabber/releases/download/untagged-ea92eb196d54158ab008/floorgrabber.py
 - gekodriver - https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip | please save the file at c:\webdrivers\gekodriver.exe
-
 
 
 ## Usage:
