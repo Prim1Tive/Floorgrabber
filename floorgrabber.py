@@ -8,7 +8,7 @@ sleeptime = 0
 d = webdriver.Firefox(executable_path=r"c:\webdriver\geckodriver.exe")
 url = input("OpenSea NFT profile URL page: \t")
 TrashHold = input('Floor TrashHold [0.1, 3.4, 5] :\t')
-sleeptime = input("Refresh page every:\t")
+sleeptime = int(input("Refresh page every:\t"))
 xpath_name = "/html/body/div[1]/div/main/div/div/div[1]/div[2]/div[3]/h1"
 xpath_floor = "/html/body/div[1]/div/main/div/div/div[1]/div[2]/div[5]/div/div[3]/a/div/div[1]/div/span/div"
 
