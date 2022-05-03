@@ -1,6 +1,6 @@
 # FloorGrabber
 
-This Porject was cearted so one could track the floor of an NFT in any given moment by setting a trash-hold.
+This Porject was cearted so one could track the floor of an NFT in any given moment by giving OpenSea NTF Profile URL
 
 <p align="center">
 <img src="demo.png"/>
