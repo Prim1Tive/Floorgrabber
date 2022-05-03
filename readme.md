@@ -1,4 +1,4 @@
-# OpenSea Floor RealTime Alerts
+# OpenSea Floor RealTime Notifications.
 
 This Porject was cearted so one could track the floor of an NFT in any given moment by giving OpenSea NTF Profile URL
 
