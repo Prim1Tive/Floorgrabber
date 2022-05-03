@@ -9,7 +9,6 @@ This Porject was cearted so one could track the floor of an NFT in any given mom
 
 ## Requierments:
 
-- python3 - install via Windows store
 - Selenium - pip install selenium
 - win10toast - pip install win10toast
 - Firefox lastest version
@@ -29,5 +28,6 @@ This Porject was cearted so one could track the floor of an NFT in any given mom
 
 - 1 Run .py file
 - 2 Give OpenSea URL
-- 3 Give floor for trash-holding
+- 3 Give floor for trash-hold
+- 4 Sleep time
 
