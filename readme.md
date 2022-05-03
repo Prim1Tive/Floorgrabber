@@ -3,7 +3,7 @@
 This Porject was cearted so one could track the floor of an NFT in any given moment by setting a trash-hold.
 
 <p align="center">
-<img src="assets/demo.png"/>
+<img src="demo.png"/>
 </p>
 
 
