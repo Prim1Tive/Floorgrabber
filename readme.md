@@ -28,6 +28,6 @@ This Porject was cearted so one could track the floor of an NFT in any given mom
 
 - 1 Run .py file
 - 2 Give OpenSea URL
-- 3 Give floor for trash-hold
+- 3 Give floor threshold
 - 4 Sleep time
 
