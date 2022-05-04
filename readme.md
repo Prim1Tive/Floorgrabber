@@ -9,7 +9,7 @@ This Porject was cearted so one could track the floor of an NFT in any given mom
 
 ## Requierments:
 
-- Selenium - pip install selenium
+- Selenium - that is compatible with your Firefox  version
 - win10toast - pip install win10toast
 - Firefox lastest version
 - gekodriver - Install this file in c:\webdrivers\gekodriver.exe
