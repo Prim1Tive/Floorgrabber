@@ -1,6 +1,6 @@
 # OpenSea Floor RealTime Notifications.
 
-This Porject was cearted so one could track the floor of an NFT in any given moment by giving OpenSea NTF Profile URL
+This project was built so that one may follow a desired floor of an NFT at any moment by giving the "OpenSea NTF Profile URL."
 
 <p align="center">
 <img src="demo.png"/>
