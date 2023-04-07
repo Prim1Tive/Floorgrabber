@@ -5,7 +5,7 @@ from time import sleep
 import warnings
 
 def args_handler():
-    parser = argparse.ArgumentParser(prog="Opensea NFT FloorGrabber", formatter_class=argparse.RawDescriptionHelpFormatter,
+    parser = argparse.ArgumentParser(prog="FloorGrabber.py", formatter_class=argparse.RawDescriptionHelpFormatter,
                                      description="This project was built so that one may follow a desired floor of an NFT at any moment by giving a Opensea URL")
 
     parser.add_argument("-u", "--url", help='URL of the OpenSea NFT you want to track', required=True)
