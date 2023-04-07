@@ -26,8 +26,16 @@ This project was built so that one may follow a desired floor of an NFT at any m
 
 ## Usage:
 
-- 1 Run .py file
-- 2 Give OpenSea URL
-- 3 Give floor threshold
-- 4 Sleep time
+```
+usage: Opensea NFT FloorGrabber [-h] -u URL -t TRASH_HOLD [-s SLEEP]
 
+This project was built so that one may follow a desired floor of an NFT at any moment by giving a Opensea URL
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -u URL, --url URL     URL of the OpenSea NFT you want to track
+  -t TRASH_HOLD, --trash-hold TRASH_HOLD
+                        Floor TrashHold [0.1, 3.4, 5]
+  -s SLEEP, --sleep SLEEP
+                        how much time to sleep between each request
+```
