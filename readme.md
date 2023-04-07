@@ -27,7 +27,7 @@ This project was built so that one may follow a desired floor of an NFT at any m
 ## Usage:
 
 ```
-usage: Opensea NFT FloorGrabber [-h] -u URL -t TRASH_HOLD [-s SLEEP]
+usage: FloorGrabber.py [-h] -u URL -t TRASH_HOLD [-s SLEEP]
 
 This project was built so that one may follow a desired floor of an NFT at any moment by giving a Opensea URL
 
