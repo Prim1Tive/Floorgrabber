@@ -2,6 +2,7 @@ from win10toast import ToastNotifier
 import argparse
 from selenium import webdriver
 from time import sleep
+from selenium.common.exceptions import *
 import warnings
 
 def args_handler():
@@ -28,12 +29,10 @@ class FloorGrabber:
         # selenium
         self.driver = webdriver.Firefox(executable_path=r"c:\webdriver\geckodriver.exe")
         self.xpath_name = "/html/body/div[1]/div/main/div/div/div/div[3]/div/div/div[1]/div/div[2]/h1"
-        self.xpath_floor = "/html/body/div[1]/div/main/div/div/div/div[5]/div/div[2]/div/div[2]/div[3]/div/div[6]/a/div/span[1]/div"
+        self.xpath_floor = "/html/body/div[1]/div/main/div/div/div/div[5]/div/div[2]/div/div[2]/div[3]/div/div[" \
+                           "6]/a/div/span[1]/div "
 
         self.current_floor = None
-
-    def windows_popup_message_settings(self):
-        return warnings.filterwarnings("ignore", category=DeprecationWarning)
 
     def windows_popup_message(self, _floor, _pname):
         return ToastNotifier().show_toast(f"Alert, Floor is {self.current_floor}", f"{self.pname}")
@@ -58,7 +57,6 @@ class FloorGrabber:
         return sleep(self.sleeptime)
 
     def main(self):
-        self.windows_popup_message_settings()
         while True:
             self.get_to_opensea_url()
             self.get_data_from_page()
